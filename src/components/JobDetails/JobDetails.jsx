@@ -46,7 +46,8 @@ const JobDetails = () => {
                             <p><span className='fw-bold'>Email :</span> {email}</p>
                             <p><span className='fw-bold'>Address : </span>{location}</p>
                         </div>
-                        <button onClick={()=> getJobData(id)} className='custom-btn w-100 mt-3'>Apply Now</button>
+                       
+                        <Link to='/appliedJobs'> <button onClick={()=> getJobData(id)} className='custom-btn w-100 mt-3'>Apply Now </button></Link>
                    </div>
                 </div>
             </div>
