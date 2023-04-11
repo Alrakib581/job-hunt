@@ -1,0 +1,23 @@
+[
+  {
+    "title": "When should you use context API ?",
+    "details": "Context is primarily used when some data needs to be accessible by many components at different nesting levels. Apply it sparingly because it makes component reuse more difficult.",
+    "id": 1
+  },
+  {
+    "title": "What is custom hook ?",
+    "details": "amar shonar bangla ami tomay bhalo bashi chiro din tomar akash tomar batash amar prane bajae bashi shornar bangla ami tomay bhalo bashi akhono ki shondha bela amar bari ferar shomoy peri gele ",
+    "id": 2
+  },
+  {
+    "title": "What is useRef ?",
+    "details": "amar shonar bangla ami tomay bhalo bashi chiro din tomar akash tomar batash amar prane bajae bashi shornar bangla ami tomay bhalo bashi akhono ki shondha bela amar bari ferar shomoy peri gele ",
+    "id": 3
+  },
+  {
+    "title": "What is useMemo ?",
+    "details": "amar shonar bangla ami tomay bhalo bashi chiro din tomar akash tomar batash amar prane bajae bashi shornar bangla ami tomay bhalo bashi akhono ki shondha bela amar bari ferar shomoy peri gele ",
+    "id": 4
+  }
+  
+]
