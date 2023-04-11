@@ -1,0 +1,13 @@
+.header{
+    /* background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%); */
+     background-color: #f9f9ff;
+
+}
+.custom-btn{
+        background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+        color: #ffffff;
+        padding: 10px;
+        border-radius: 8px;
+        border: 0px;
+
+}
