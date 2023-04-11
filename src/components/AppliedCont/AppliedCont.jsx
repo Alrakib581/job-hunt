@@ -8,7 +8,7 @@ const AppliedCont = ({singleCart}) => {
     return (
         <div>
             <div className='border rounded p-4 my-4'>
-                    <div className='d-flex gap-4'>
+                    <div className='d-md-flex gap-4'>
                         <div className='bg-light p-4 rounded'>
                             <img src={logo} alt="" />
                         </div>
@@ -20,7 +20,7 @@ const AppliedCont = ({singleCart}) => {
                             }
                              <p> <img src={locimg} alt="" />{location} &nbsp; <img src={moneyimg} alt="" /> Salery: <span>{salery}</span></p>
                         </div>
-                        <div className='d-flex align-items-center justify-content-center ms-auto'>
+                        <div className='d-md-flex align-items-center justify-content-center ms-auto'>
                              <Link className='custom-btn btn'  to={`/jobdet/${id}`}>View Details</Link>
                         </div>
                     </div>
