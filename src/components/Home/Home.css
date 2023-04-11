@@ -1,0 +1,24 @@
+.banner-section{
+    background-color: #f9f9ff;
+
+}
+.right-div{
+    width: 50%;
+}
+.banner-heading{
+    font-size: 4.5rem;
+}
+.heading-high{
+    color: #7E90FE;
+    /* color: #9873FF; */
+    
+}
+@media screen and (max-width:768px) {
+    .right-div{
+        width: 100%;
+    }
+    .banner-heading{
+        font-size: 2rem;
+        /* text-align: center; */
+    }
+}
