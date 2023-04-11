@@ -1,23 +1,23 @@
 [
   {
     "title": "When should you use context API ?",
-    "details": "Context is primarily used when some data needs to be accessible by many components at different nesting levels. Apply it sparingly because it makes component reuse more difficult.",
-    "id": 1
+    "details": "Context is primarily used when some data needs to be accessible by many components at different nesting levels. Apply it sparingly because it makes component reuse more difficult. If You need data passing many children with no hasitient you have to use Context API",
+    "id": "1"
   },
   {
     "title": "What is custom hook ?",
-    "details": "amar shonar bangla ami tomay bhalo bashi chiro din tomar akash tomar batash amar prane bajae bashi shornar bangla ami tomay bhalo bashi akhono ki shondha bela amar bari ferar shomoy peri gele ",
-    "id": 2
+    "details": "React hooks are functions that let you use and interact with state in React function components. React comes with some built-in hooks, Buy  We can also build our own hooks using the built-in hooks as building blocks. These are often referred to as “custom hooks” to differentiate them from the built-in hooks. In my experience, custom hooks are the most underused React abstraction. Developers who are newer to React can struggle to understand how to build custom hooks or when to use them.",
+    "id": "2"
   },
   {
     "title": "What is useRef ?",
-    "details": "amar shonar bangla ami tomay bhalo bashi chiro din tomar akash tomar batash amar prane bajae bashi shornar bangla ami tomay bhalo bashi akhono ki shondha bela amar bari ferar shomoy peri gele ",
-    "id": 3
+    "details": "useRef is built in react hook that can accept and argument as inital value and  it return a referance.  useState hook itself re render but useRef hook did not. ",
+    "id": "3"
   },
   {
     "title": "What is useMemo ?",
-    "details": "amar shonar bangla ami tomay bhalo bashi chiro din tomar akash tomar batash amar prane bajae bashi shornar bangla ami tomay bhalo bashi akhono ki shondha bela amar bari ferar shomoy peri gele ",
-    "id": 4
+    "details": "React has a built-in hook called useMemo that allows you to memoize expensive functions so that you can avoid calling them on every render. You simple pass in a function and an array of inputs and useMemo will only recompute the memoized value when one of the inputs has changed.",
+    "id": "4"
   }
   
 ]
